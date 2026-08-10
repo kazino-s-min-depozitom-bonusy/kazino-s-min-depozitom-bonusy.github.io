@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-s-min-depozitom-bonusy.github.io
+Sitemap: https://kazino-s-min-depozitom-bonusy.github.io/sitemap.xml
